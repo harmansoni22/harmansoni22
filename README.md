@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer from Dhar, MP who just finished school and is in the “try lots of tech and see what sticks” phase. Mostly building small web apps with React, Next.js, Tailwind, and deploying them on AWS EC2. Using this GitHub profile to track experiments, side projects, and slowly get better at actually finishing what gets started.
+Developer from Dhar, MP who just finished school and is in the “try lots of tech and see what sticks” phase. Mostly building small web apps with React, Next.js, Tailwind, and deploying them on AWS EC2, Vercel, Github Pages. Using this GitHub profile to track experiments, side projects, and slowly get better at actually finishing what gets started.
 
 
 ## 🌐 Socials:
