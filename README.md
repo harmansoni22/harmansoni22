@@ -1,7 +1,9 @@
 # 👋 Hey, I’m Harman
 
-Developer from **Dhar, MP** who just wrapped up school and is currently in the “try a lot of tech and ship small things” phase. I enjoy building web apps with React, Next.js and Tailwind, deploying them on AWS EC2, Vercel, and GitHub Pages, and using this profile as a log of experiments, side projects, and slow but steady progress.  
-Right now I’m learning how to balance ambition with discipline: fewer half-finished projects, more things that actually ship.
+Developer from **Dhar, MP** who just wrapped up school and is in the “**try a lot of tech, ship small things, learn fast**” phase.
+
+I enjoy building web apps with **React**, **Next.js**, and **Tailwind**, deploying them to **AWS EC2**, **Vercel**, and **GitHub Pages**, and using this profile as a log of experiments, side projects, and steady progress.  
+Right now I’m learning how to **balance ambition with discipline**: fewer half‑finished projects, more things that actually ship.
 
 ---
 
@@ -11,24 +13,24 @@ Right now I’m learning how to balance ambition with discipline: fewer half-fin
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harman.jsx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harmansoni)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30782064/harman-soni)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harman.codes.dev@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harman.codes.dev@gmail.com)
 
 ---
 
 ## 🚀 What I’m up to
 
-- Building small, focused web apps to sharpen fundamentals (React, Next.js, APIs, auth, state).  
-- Exploring cloud and deployment: AWS EC2, Vercel, Netlify, Cloudflare.  
-- Learning how to design systems that are not just “working locally” but are documented, deployed, and maintainable.  
-- Slowly moving towards AI/ML and stronger math foundations so future projects aren’t just CRUD apps.
+- Building small, focused web apps to sharpen fundamentals (**React**, **Next.js**, APIs, auth, state).  
+- Exploring cloud and deployment: **AWS EC2**, **Vercel**, **Netlify**, **Cloudflare**.  
+- Learning how to design systems that are not just “working locally” but are **documented, deployed, and maintainable**.  
+- Slowly moving towards **AI/ML** and stronger **math foundations** so future projects aren’t just CRUD apps.
 
 ---
 
 ## 🧠 Current Focus
 
-- Writing cleaner, more consistent code instead of jumping stacks every week.  
-- Finishing things: taking projects from idea → prototype → deployed → documented.  
-- Getting better at debugging, testing, and reading documentation instead of just tutorials.  
+- Writing **cleaner, more consistent code** instead of jumping stacks every week.  
+- **Finishing things**: idea → prototype → deployed → documented.  
+- Getting better at **debugging**, **testing**, and **reading docs** instead of only tutorials.  
 
 If you’re into similar things (web dev, cloud, or just shipping tiny projects), feel free to reach out or open an issue on any repo.
 
@@ -94,17 +96,51 @@ These are the small helpers that keep my dev loop fast and smooth:
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- GitHub Readme Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=harmansoni22&show_icons=true&theme=radical&hide_border=true"
+      alt="Harman's GitHub stats"
+      height="180px"
+    />
+  </a>
+  <!-- Top Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmansoni22&layout=compact&theme=radical&hide_border=true"
+      alt="Top languages"
+      height="180px"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Streak stats -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=harmansoni22&theme=radical&hide_border=true"
+      alt="GitHub streak"
+      height="180px"
+    />
+  </a>
+</p>
+
+---
+
 ## 📌 A few things I care about
 
-- Clarity over chaos: simple UIs, clear structure, readable code.  
-- Learning in public: small commits, honest mistakes, visible progress.  
-- Long-term game: using these projects as a foundation for future work in AI, backend systems, and more serious engineering.
+- **Clarity over chaos**: simple UIs, clear structure, readable code.  
+- **Learning in public**: small commits, honest mistakes, visible progress.  
+- **Long-term game**: using these projects as a foundation for future work in AI, backend systems, and more serious engineering.
 
 ---
 
 ## ✍️ Random Dev Quote
 
-![https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
