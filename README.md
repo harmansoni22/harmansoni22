@@ -48,6 +48,7 @@ If you’re into similar things (web dev, cloud, or just shipping tiny projects)
 **Frontend**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TezJS](https://img.shields.io/badge/TezJS-000000?style=for-the-badge&logoColor=white)
@@ -82,6 +83,7 @@ If you’re into similar things (web dev, cloud, or just shipping tiny projects)
 **Design & visuals**
 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Express](https://img.shields.io/badge/Adobe%20Express-000000?style=for-the-badge&logo=adobe&logoColor=FF0000)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Spline](https://img.shields.io/badge/Spline-0A0E1A?style=for-the-badge&logo=spline&logoColor=white)
 
